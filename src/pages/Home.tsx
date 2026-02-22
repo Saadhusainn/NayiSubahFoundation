@@ -54,7 +54,7 @@ export function Home() {
             </div>
             <div className="relative animate-fadeIn">
               <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
-                <img src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800" alt="Community Service" className="w-full h-full object-cover" loading="lazy" />
+                <img src="https://i.ibb.co/rKdr5PDB/nsf.png?w=800" alt="Community Service" className="w-full h-full object-cover" loading="lazy" />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent" />
               </div>
             </div>
